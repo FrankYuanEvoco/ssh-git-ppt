@@ -23,7 +23,7 @@ Want to create your presentation using a visual editor? Try the official reveal.
 
 ## License
 
-MIT licensed
+MIT licensedMIT licensedMIT licensedMIT licensedMIT licensedMIT licensedMIT licensedMIT licensedMIT licensed
 
 Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se
 
