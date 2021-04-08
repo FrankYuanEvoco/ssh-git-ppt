@@ -28,4 +28,4 @@ MIT licensed
 Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se
 
 
-asdjhflqukhrg;ihsdlkjgqb;kherkq
+THis is now a much better README
